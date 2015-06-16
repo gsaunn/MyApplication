@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MathQuiz</string>
+    <string name="hello">     Welcome to MathQuiz </string>
+    <string name="new_label">New quiz</string>
+    <string name="highscore_label">high scores</string>
+    <string name="about_label">About MathQuiz</string>
+    <string name="help_label">Help</string>
+    <string name="help_text"></string>
+    <string name="exit_label">Exit app</string>
+    <string name="invite_label">Invite a friend to play</string>
+    <string name="about_text"> MathQuiz was made by <b>Dominic Idagu</b>. (Copyright 2015). <p> This app
+        was made to help high school students to improve their skills in Mathematics.
+        You can contact me via <a href="mailto:didagou@gmail.com">didagou@gmail.com</a></p></string>
+    <string name="searchText">Search among all questions for a term you would like to know the answer to</string>
+    <string name="search_label">Search</string>
+    <string name="search_all">Show all questions and answers</string>
+    <string name="cancel">Cancel</string>
+    <string name="cube_label">The Math Dice</string>
+    <string name="highscore_loading">Loading highscores...</string>
+    <string name="question_label">Question</string>
+    <string name="question_submit">Answer!</string>
+    <string name="question_quit">Stop the Quiz</string>
+    <string name="statusBack_label">Main menu</string>
+    <string name="back">Menu</string>
+    <string name="status">Status</string>
+    <string name="highscore_text">Best highscore of all:</string>
+    <string name="highscorelocal_text">Your best scores</string>
+    <string name="highscorereset_label">Reset your highscores</string>
+    <string name="highscoreback_label">Back to menu</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Yes</string>
+    <string name="name">Name</string>
+    <string name="category">Choose subject</string>
+    <string name="location">Country</string>
+    <string name="score">Score</string>
+    <string name="inputname">Input your name (max 10 characters)</string>
+    <string name="newglobalscore">New best highscore</string>
+    <string name="wronganswer">Wrong answer</string>
+    <string name="surestop">Are you sure you want to quit?</string>
+    <string name="resetHighscoreConfirmation">Are you sure you want to reset the scores?</string>
+    <string name="highscorereset_done">Your scores have been reset</string>
+    <string name="nointernet">Could not connect to highscore server. No Internet connection.</string>
+    <string name="answer_correct">Correct!</string>
+    <string name="statusExplanation">Status: Green are correct, red are wrong. Below each question you can see the correct answer by pressing the symbol.</string>
+    <string name="yourSummary">You got</string>
+    <string name="of">of</string>
+    <string name="answer_wrong">Wrong. The correct answer is :</string>
+    <string name="newhighscore">" right answers. New highscore in this category!! Congratulations"</string>
+    <string name="newhighscore1">1 right answer. New highscore in this category!! Congratulations</string>
+    <string name="nohighscore2">right answers. No new highscore in this category:-(</string>
+    <string name="nohighscore1">1 right answer. No new highscore in this category:-(</string>
+
+</resources>

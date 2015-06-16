@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/high_mainlayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+                  xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textStyle="bold" android:id="@id/highscore_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/highscore_text" />
+        <TableLayout android:id="@id/highscoretable_global" android:layout_width="fill_parent" android:layout_height="fill_parent"
+                     xmlns:android="http://schemas.android.com/apk/res/android" />
+        <TextView android:textStyle="bold" android:id="@id/highscorelocal_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/highscorelocal_text" />
+        <TableLayout android:id="@id/highscoretable_local" android:layout_width="fill_parent" android:layout_height="fill_parent"
+                     xmlns:android="http://schemas.android.com/apk/res/android" />
+        <TableLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:stretchColumns="0,1"
+                     xmlns:android="http://schemas.android.com/apk/res/android">
+            <TableRow>
+                <Button android:id="@id/highScoreReset" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/highscorereset_label" />
+                <Button android:id="@id/highScoreBack" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/highscoreback_label" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</ScrollView>

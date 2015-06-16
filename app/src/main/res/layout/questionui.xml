@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0"
+                    xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout android:orientation="vertical" android:id="@id/home_layout" android:layout_width="fill_parent" android:layout_height="match_parent" android:layout_alignParentTop="true"
+                      xmlns:android="http://schemas.android.com/apk/res/android">
+            <WebView android:id="@id/questionTextId" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TextView" />
+            <RadioGroup android:id="@id/radioGroupQuestion" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <RadioButton android:id="@id/radio0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="RadioButton" />
+                <RadioButton android:id="@id/radio1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="RadioButton" />
+                <RadioButton android:id="@id/radio2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="RadioButton" />
+                <RadioButton android:id="@id/radio3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="RadioButton" />
+            </RadioGroup>
+            <TableLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:stretchColumns="0"
+                         xmlns:android="http://schemas.android.com/apk/res/android">
+                <TableRow>
+                    <Button android:orientation="horizontal" android:id="@id/questionSubmit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/question_submit" />
+                    <Button android:orientation="horizontal" android:id="@id/stopQuiz" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/question_quit" />
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+        <TextView android:id="@id/filler" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_weight="1.0" android:layout_below="@id/home_layout" />
+    </RelativeLayout>
+</ScrollView>

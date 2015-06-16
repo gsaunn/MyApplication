@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="about_layout">false</item>
+    <item type="id" name="action_settings">false</item>
+    <item type="id" name="android_icon">false</item>
+    <item type="id" name="high_mainlayout">false</item>
+    <item type="id" name="highscore_view">false</item>
+    <item type="id" name="highScoreReset">false</item>
+    <item type="id" name="highScoreBack">false</item>
+    <item type="id" name="highscoretable_global">false</item>
+    <item type="id" name="highscorelocal_view">false</item>
+    <item type="id" name="highscoretable_local">false</item>
+    <item type="id" name="mainLayout">false</item>
+    <item type="id" name="new_button">false</item>
+    <item type="id" name="highscore_button">false</item>
+    <item type="id" name="about_button">false</item>
+    <item type="id" name="help_button">false</item>
+    <item type="id" name="help_text">false</item>
+    <item type="id" name="help_contents">false</item>
+    <item type="id" name="invite_button">false</item>
+    <item type="id" name="exit_button">false</item>
+    <item type="id" name="home_layout">false</item>
+    <item type="id" name="questionTextId">false</item>
+    <item type="id" name="radioGroupQuestion">false</item>
+    <item type="id" name="radio0">false</item>
+    <item type="id" name="radio1">false</item>
+    <item type="id" name="radio2">false</item>
+    <item type="id" name="radio3">false</item>
+    <item type="id" name="questionSubmit">false</item>
+    <item type="id" name="stopQuiz">false</item>
+    <item type="id" name="filler">false</item>
+    <item type="id" name="statusText">false</item>
+    <item type="id" name="statusSummary">false</item>
+    <item type="id" name="statusBack">false</item>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categoryzer">
+        <item>ALGEBRA</item>
+        <item>GEOMETRY</item>
+    </string-array>
+    <string-array name="invites">
+        <item>select friends</item>
+    </string-array>
+</resources>

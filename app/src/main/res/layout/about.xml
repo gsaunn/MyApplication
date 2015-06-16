@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:id="@id/about_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+             xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent"
+                      xmlns:android="http://schemas.android.com/apk/res/android">
+            <ImageView android:layout_gravity="top" android:background="#ffffffff"
+                       android:focusable="true" android:layout_width="100.0dip" android:layout_height="120.0dip"
+                       android:layout_marginTop="1.0dip" android:src="@drawable/android_icon" />
+                    </LinearLayout>
+    </TableRow>
+    <TableRow>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/about_text" />
+    </TableRow>
+</TableLayout>

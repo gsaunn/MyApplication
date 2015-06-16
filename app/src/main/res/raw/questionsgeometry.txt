@@ -1,0 +1,155 @@
+What is the relation between the volume of a cone and a cylinder that have the same height and radius:
+The cylinder is two times bigger |  The cylinder is 3 times bigger | They have equal sizes | The cone is two times bigger
+? 1 [ Since the volume of a cone is 1/3*h*G, the cylinder is 3 times bigger] ?
+
+
+What is the volume of a cone where h is the height and G the base area:
+1/3*h*G | h*G | 1/3*h*pi*G
+? 0 ?
+
+What is the volume of a cone with the radius r:
+1/3*pi*r^2 | 4/3*pi*r^3 | 3/4*pi*r^3 | pi*r^2
+? 1 ?
+
+What is the surface area of a sphere with the radius r:
+4*pi*r | 4*pi*r^2 | 4/3*pi*r^2
+? 1 ?
+
+What is the area of a triangle with the height h and the baseline g:
+g*h | g^2*h | 1/2*g*h
+? 2 ?
+
+What is the chord in a circle: 
+the half of radius | line that connects the center with a point | line that connects two points on the circle
+? 2 ?
+
+What is the sum of interior angles in a pentagon:
+180 | 360 | 480 | 540 
+? 3 [ It can be split into 3 triangles, each 180 degrees. ] ?
+
+How many degrees is a radian:
+ca. 47 | ca. 57 | pi degrees | pi/2 degrees
+? 1 [ remember there are 2*pi radians in a circle = 360 degrees] ?
+
+What is the area of a square pyramid with the height h and base side length a:
+a^2 *2/3*h | a^3 * h * 1/3 | a^2 *h*1/3
+? 2 [ 1/3 * base side length * height - and a^2 is the base in a square pyramid ] ?
+
+What is the equation of a circle with the center (a,b) and the radius r:
+(x+a)^2 + (y+b)^2 = r^2 | (x-a)^2 + (y-b)^2 = r^2 | (x-a)^2 + (y-b)^2 = r
+? 1 ?
+
+What is the equation of the unit circle:
+x^2 + y^2 = 0 | x^2 + y^2 = 1 | x + y = 0
+? 1 [ remember radius is 1 and then use the pythagorean theorem] ?
+
+How many radians are there in a circle:
+pi | 2*pi | pi/2 | 360
+? 1 [ Remember there are 2*pi radians in a full circle] ?
+
+What is the point (0,0) in the coordinate system called :
+zero  | origo | origa | origor 
+? 1 [ from Latin meaning center or start ] ?
+
+What is the equation of sphere with the center (a,b,c) and radius r:
+(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2 | (x-a)^3 + (y-b)^3 + (z-c)^3 = r^3 | (x-a) + (y-b) + (z-c) = r
+? 0 [ think of the length of the vector from the center to the surface ] ?
+
+What does it mean when two lines are wind skewed:
+They intersect each other | They are parallel | They don't intersect
+? 2 ?
+
+What is a tangent vector to a vector function (x(t),y(t)) :
+A vector with the length 1 | (x'(t),y'(t)) | (x''(t),y''(t))
+? 1 [ the tangent vector is the derivative of the x and y functions] ?
+
+How is the graph of a vector function's intersection with the x-axis determined :
+By solving x(t) = y (t) | by solving x(t) = 0 | by solving y(t) = 0
+? 2 [ the y-value is 0 on the x-axis ] ?
+
+How is the graph of a vector function's intersection with the y-axis determined :
+By solving x(t) = y (t) | by solving x(t) = 0 | by solving y(t) = 0
+? 1 [ the x-axis is 0 on the y-axis ] ?
+
+How is a velocity vector to a vector function (x(t),y(t)) determined :
+The length of (x(t),y(t)) | ( x'(t),y'(t)) | ( x''(t), y''(t))
+? 1 [Since speed is distance/time, so you have to differentiate] ?
+
+How do you find the intersection between 2 vector functions:
+x1(t1) = x2(t1) | y1(t1) = y2(t2) | x1(t1) = x2(t2) and y1(t1) = y2(t2)
+? 2 [Both the y and x-coordinates are the same in the intersection] ?
+
+Which vector function describes the unit circle:
+(cos(t),sin(t)) | (sin(t),cos(t)) | (sin(t),tan(t)) | (cos(t),tan(t))
+? 0 [ cos(t) = x value and sin(t) = y value per definition ] ?
+
+Which vector function describes a general circle with the radius r and the center in (a,b):
+(a*r*cos(t),b*r*sin(t)) | (a + cos(t),b + sin(t)) | (a + r*cos(t),b + r*sin(t)) | (a + r*sin(t),b + r*cos(t))
+? 2 ? 
+
+Which vector function describes a straight line y = a*t + b :
+(b, a*t) | (a, a*t+b) | (t, a*t + b)
+? 2 [since the x-value is t and y is a*t+b] ?  
+
+What does it mean if the scalar product between two vectors is 0:
+The two vectors are parallel | the two vectors are similar | the two vectors are perpendicular
+? 2 [ If the angle is 90 degrees, cos(v) = 0, and therefore the scalar product is 0 ]  ?
+
+What is a unit vector:
+A vector with the length of 0| a vector with the length of 1 | A vector indicated with a unit in cm |
+A vector in the unit meter
+? 1 [ Think of the unit circle - something to do with the number 1] ?
+
+How many points have to be used to define a plane:
+1 | 2 | 3 | 4
+? 2 ?
+
+How many directional vectors should be used to define a plane:
+1 | 2 | 3 | 4
+? 1 ?
+
+Which of the following equations describe a plane:
+ax + by | ax + by + cz | ax + by + cz + d | ax + by + cz + d = 0
+? 3 ?
+
+What is the angle between a plane and it's normal vector:
+0 degrees | 45 degrees | 90 degrees | 180 degrees
+? 2 ?
+
+What is the angle between the vector product of two vectors and then the original two vectors:
+45 degrees | 90 degrees | 180 degrees
+? 1  [ Remember the vector product always results in a normal vector] ?
+
+
+What is a position vector:
+A vector from the point A to B | A vector from (0,0) (Origo) to a point | A vector with the length 1 
+? 1 ?
+
+How is a vector from point A to point B found:
+OB + OA | OB - OA | OA - OB
+? 1 ?
+
+What is the requirement for two directional vectors that define a plane in space:
+They cannot be parallel| They cannot be unit vectors | They can not be perpendicular
+? 0 [ Otherwise they can not span the plane ] ?
+
+
+How many directional vectors are necessary to define a line:
+0 | 1 | 2 | 3
+? 1 [ because a vector indicates a direction ] ?
+
+How is the dot product of vector a and b calculated (v is the angle between a and b):
+a*b*cos(v) | length(a)*length(b)*cos(v) | length(a)*length(b)*sin(v)
+? 1 ?
+  
+What is the dot product of the vectors (2,5) and (2,-2):
+0 | -3 | 14 | -6
+? 3 [ 2*2 + (-2)*5  = -6 ] ?
+ 
+What is the vector AB, when A = (2,5) and B = (4,2):
+(6,7) | (2,-3) | (-2,3)
+? 2 [ OB - OA = (2,-3) ] ?
+
+What is a plane called that touches a ball in exactly one point:
+normal plane | tangent plane | is not possible
+? 1 ? 
